@@ -1,5 +1,5 @@
 ''' the triSelection is a function to sort
-    a random unsorted list of 11 element
+    a random unsorted list of 11 elements
     '''
 import random
 def triSelection(l:list):
